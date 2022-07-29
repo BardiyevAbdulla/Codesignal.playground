@@ -856,3 +856,4 @@ print(solution(n: 2147483647, k: 16))
 
 
 var char = "s"
+var char2 = "dsjkhdfs"
